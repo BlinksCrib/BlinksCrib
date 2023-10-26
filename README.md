@@ -13,8 +13,8 @@
 
 🌍  I'm based in Nigeria
 
-✉️  You can contact me at ajibolaisaac09@gmail.com
+✉️  You can contact me at ajibolaisaac09@gmail.com || +2348107951217
 
-🧠  I'm a React Dev
+🧠  I'm a MERN stack Dev
 
 🤝 I'm open to collaborating on Projects
